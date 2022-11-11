@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3{
+    text-align: center;
+    text-transform: capitalize;
+}
+.link{
+    text-align: center;
+    text-transform: capitalize;
+}
+.my-website{
+    padding: 5px 15px;
+}
+.image img{
+    width: 100%;
+}

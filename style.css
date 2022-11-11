@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+
+}
+h1{
+    background-color: darkcyan;
+    height: 50px;
+    text-transform: capitalize;
+    text-align: center;
+    color: antiquewhite;
+}
+p{
+    color: salmon;
+}
+.nithuja{
+    font-size: 36px;
+    color: black;
+}
+.lgp,p{
+    color: seashell;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+.lgp p{
+    margin: 4px 0;
+}
+.lgp{
+    border: 3px solid cyan;
+    border-radius: 8px;
+    background-color: blueviolet;
+    color: white;
+    margin: 0.3%;
+    /* padding: 4px 2px; */
+    width: 32%;
+    display: inline-block;
+}
+h3{
+    text-align: center;
+}
+.footer{
+    border: 3px solid magenta;
+    background-color: hotpink;
+    border-radius: 5px;
+}
+.footer h3{
+    text-transform: uppercase;
+}
+.menu ul li{
+    list-style-type: none;
+}
+.menu ul li a{
+    text-decoration: none;
+}
